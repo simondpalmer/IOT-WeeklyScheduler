@@ -30,7 +30,6 @@ This repository makes use of the following:
 - The platform [Node.RED](https://nodered.org/)
 - Critical nodes such as [Schedex](https://github.com/biddster/node-red-contrib-schedex)
 - [Raspberry Pi](https://www.raspberrypi.org/) using a [Sixfab Raspberry Pi 3G/4G & LTE Base HAT](https://sixfab.com/) with Quectel EC25 Mini PCIe 4G/LTE Module and [Super SIM card](https://www.twilio.com/) from Twilio
-- Wireframes and/or mockups for a potential dApp UI
 
 ### Installation
 
