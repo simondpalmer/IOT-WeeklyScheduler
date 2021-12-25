@@ -1,14 +1,15 @@
 # IOT-WeeklyScheduler
-Weekly Scheduler for IOT remote device using Node.Red
+Weekly Scheduler for IOT remote device using Node.Red and associated 3rd party nodes
 
 - [Concept](#concept)
 - [Dependancies](#dependancies)
 - [Installation](#installation)
 - [UI Workflow](#ui-workflow)
+  - [UI Demo](#ui-demo)
   - [UI Images](#ui-images)
-  - [Functions](#functions)
+  - [UI Functions](#ui-functions)
 - [Hardware](#hardware)
-  - [Hardware Images](#images-hardware)
+  - [Hardware Images](#hardware-images)
 - [Future Development](#future-development)
 - [Key Contributors](#key-contributors)
 
@@ -41,16 +42,27 @@ This repository makes use of the following:
 
 ## UI Workflow
 
-### UI Images
+#### UI Demo
 
-**UI Images**
-![ui01](media/ui/overall.JPG)
-![ui02](media/ui/pump-status.JPG)
-![ui03](media/ui/daily-node.JPG)
-![ui04](media/ui/news-node.JPG)
-
-**UI Demo**
 ![uidemo](media/ui/ui-demo.gif)
+
+#### UI Images
+
+**Overall Node Configuration for Weekly Scheduler and Pump Status**
+
+![ui01](media/ui/overall.JPG)
+
+**Pump Status**
+
+![ui02](media/ui/pump-status.JPG)
+
+**Daily nodes**
+
+![ui03](media/ui/daily-node.JPG)
+
+**News-Node**
+
+![ui04](media/ui/news-node.JPG)
 
 ### UI Functions
 
@@ -80,11 +92,26 @@ if(time === ":" && day === 1) {
 
 ## Hardware
 
-**Hardware Images**
+### Hardware Images
+
+**Complete System**
+
+![overall](media/hardware/hardware00.jpeg)
+
+**Hardware Case**
 
 ![case](media/hardware/hardware04.jpeg)
+
+**4G Base HAT**
+
 ![4G Base HAT](media/hardware/hardware03.jpeg)
+
+**Relays and CPU Fan**
+
 ![Relays and fan](media/hardware/hardware02.jpeg)
+
+**Raspberry Pi**
+
 ![Raspberry Pi](media/hardware/hardware01.jpeg)
 
 ## Future Development
