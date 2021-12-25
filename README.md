@@ -81,10 +81,11 @@ if(time === ":" && day === 1) {
 ## Hardware
 
 **Hardware Images**
-![hardware04](media/hardware/hardware04.jpeg)
-![hardware03](media/hardware/hardware03.jpeg)
-![hardware02](media/hardware/hardware02.jpeg)
-![hardware01](media/hardware/hardware01.jpeg)
+
+![case](media/hardware/hardware04.jpeg)
+![4G Base HAT](media/hardware/hardware03.jpeg)
+![Relays and fan](media/hardware/hardware02.jpeg)
+![Raspberry Pi](media/hardware/hardware01.jpeg)
 
 ## Future Development
 
