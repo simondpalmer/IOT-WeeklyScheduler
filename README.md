@@ -5,7 +5,7 @@ Weekly Scheduler for IOT remote device using Node.Red
 - [Dependancies](#dependancies)
 - [Installation](#installation)
 - [UI Workflow](#ui-workflow)
-  - [UI Images](#images-UI)
+  - [UI Images](#ui-images)
   - [Functions](#functions)
 - [Hardware](#hardware)
   - [Hardware Images](#images-hardware)
@@ -44,10 +44,10 @@ This repository makes use of the following:
 ### UI Images
 
 **UI Images**
-![ui01](media/ui/overall.jpg)
-![ui02](media/ui/pump-status.jpg)
-![ui03](media/ui/daily-node.jpg)
-![ui04](media/ui/news-node.jpg)
+![ui01](media/ui/overall.JPG)
+![ui02](media/ui/pump-status.JPG)
+![ui03](media/ui/daily-node.JPG)
+![ui04](media/ui/news-node.JPG)
 
 **UI Demo**
 ![uidemo](media/ui/ui-demo.gif)
@@ -81,10 +81,10 @@ if(time === ":" && day === 1) {
 ## Hardware
 
 **Hardware Images**
-![hardware04](media/hardware/hardware04.jpg)
-![hardware03](media/hardware/hardware03.jpg)
-![hardware02](media/hardware/hardware02.jpg)
-![hardware01](media/hardware/hardware01.jpg)
+![hardware04](media/hardware/hardware04.jpeg)
+![hardware03](media/hardware/hardware03.jpeg)
+![hardware02](media/hardware/hardware02.jpeg)
+![hardware01](media/hardware/hardware01.jpeg)
 
 ## Future Development
 
