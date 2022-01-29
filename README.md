@@ -30,6 +30,7 @@ This repository makes use of the following:
 - The platform [Node.RED](https://nodered.org/)
 - Critical nodes such as [Schedex](https://github.com/biddster/node-red-contrib-schedex)
 - [Raspberry Pi](https://www.raspberrypi.org/) using a [Sixfab Raspberry Pi 3G/4G & LTE Base HAT](https://sixfab.com/) with Quectel EC25 Mini PCIe 4G/LTE Module and [Super SIM card](https://www.twilio.com/) from Twilio
+- Pi-Ot Module by [Edge Devices](https://edgedevices.io/) which housed the whole assembly including industrial relays and analog to digital inputs. Such as when the pump is actually powered up
 
 ### Installation
 
